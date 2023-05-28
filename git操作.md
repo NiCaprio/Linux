@@ -62,8 +62,7 @@ git remote add 别名 仓库地址
 git push 别名 分支
 ~~~
 
-哈哈哈哈哈哈哈
-hello wuxiaoyi
+哈哈哈哈哈哈哈你
 
 
 
