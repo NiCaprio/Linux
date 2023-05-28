@@ -1,5 +1,4 @@
 # git操作
-# git操作
 ##设置用户签名
 ~~~
 git config --global user.name 名字
